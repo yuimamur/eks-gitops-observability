@@ -2,3 +2,10 @@ __pycache__/
 *.pyc
 .venv/
 .pytest_cache/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+.terraform.lock.hcl
